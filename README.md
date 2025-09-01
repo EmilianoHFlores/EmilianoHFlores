@@ -1,9 +1,9 @@
 ### Hi, I'm Emiliano Flores!
 
 ## About me
-- I study a BS. in Robotics at Tec de Monterrey :floppy_disk:
-- I'm a Software Developer for [Roborregos](https://roborregos.com) and [Distrito Tec](https://futurociudades.tec.mx/es) :computer:
-- My favourite areas of robotics are object manipulation and computer vision :bulb:
+- I am currently a 1st year CS PhD student at [Rice University](https://www.kavrakilab.org/) advised by Prof. [Lydia Kavraki](https://profiles.rice.edu/faculty/lydia-e-kavraki) 🤖
+- I studied a BSc. in Robotics at Tec de Monterrey in México :floppy_disk:
+- I have worked as a software developer for robotics and computer vision :computer:
 - Beyond robotics, I love making, watching and reading about [art](https://www.deviantart.com/emilianhayashi/gallery/all) :art:
 
 ## Contact me!
