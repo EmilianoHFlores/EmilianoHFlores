@@ -17,7 +17,7 @@
 [![Languages](https://skillicons.dev/icons?i=py,cpp,c,matlab,php,r)](https://skillicons.dev)
 
 #### Tools
-[![Tools](https://skillicons.dev/icons?i=anaconda,androidstudio,arduino,aws,cmake,docker,git,github,gitlab,linux,opencv,pr,ps,pytorch,raspberrypi,ros,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=anaconda,androidstudio,arduino,aws,bash,cmake,debian,docker,git,github,gitlab,linux,mongodb,opencv,pr,ps,pytorch,raspberrypi,ros,vscode)](https://skillicons.dev)
 
 ## GitHub Stats 
 
